@@ -1,6 +1,9 @@
 # Revati Kadam Portfolio Website
 
-A modern, responsive personal portfolio website built to showcase my projects, technical skills, resume, and contact information.
+A professional portfolio website showcasing skills, projects, and contact information. Built with a focus on SEO, accessibility, and modern UI/UX.
+
+> [!TIP]
+> Check out the [INSTRUCTIONS.md](./INSTRUCTIONS.md) for a full technical breakdown of the project structure and working principles.
 
 This portfolio includes interactive UI features like theme customization, typing animations, responsive layouts, project showcase cards, and direct email contact functionality.
 
