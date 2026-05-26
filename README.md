@@ -11,7 +11,7 @@ This portfolio includes interactive UI features like theme customization, typing
 
 ## Live Demo
 
-🔗 Portfolio Website: https://revati-kadam-portfolio-cse.netlify.app/
+🔗 Portfolio Website: https://revati-kadam-portfolio.netlify.app/
 
 ---
 
